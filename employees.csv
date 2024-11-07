@@ -1,0 +1,9 @@
+empno,ename,deptno,salary,commission
+1001,John Doe,10,50000,
+1002,Jane Smith,20,60000,
+1003,Sam Brown,10,55000,2500
+1004,Emily White,30,45000,1500
+1005,Mark Green,20,70000,3500
+1006,Susan Blue,10,52000,2200
+1007,Michael Grey,20,65000,3000
+1008,Kelly Black,30,48000,1200

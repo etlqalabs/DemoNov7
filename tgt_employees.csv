@@ -1,0 +1,4 @@
+empno,ename,deptno,salary,commission,total_compensation
+1001,JOHN DOE,10,50000,10,50010.0
+1003,SAM BROWN,10,55000,2500.0,57500.0
+1006,SUSAN BLUE,10,52000,2200.0,54200.0
